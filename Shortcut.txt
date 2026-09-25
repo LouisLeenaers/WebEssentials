@@ -1,0 +1,5 @@
+CTRL + ALT + L = code uitlijnen / formatting
+
+CTRL + K = commit
+
+CTRL + SHIFT + K = push
